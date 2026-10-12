@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>备考 Day 1 · 10月12日</title>
+<style>
+  :root {
+    --bg: #0f1419;
+    --card: #1a222d;
+    --card2: #232d3b;
+    --ink: #e8eef6;
+    --muted: #8b9bb0;
+    --accent: #5b8cff;
+    --accent2: #3dd6c6;
+    --warn: #ff8f6b;
+    --ok: #5ddea0;
+    --line: rgba(255,255,255,.08);
+    --shadow: 0 18px 50px rgba(0,0,0,.45);
+    --radius: 20px;
+    --font: "SF Pro Text", "PingFang SC", "Segoe UI", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; color: var(--ink); font-family: var(--font);
+    background:
+      radial-gradient(1200px 600px at 10% -10%, rgba(91,140,255,.28), transparent 55%),
+      radial-gradient(900px 500px at 100% 0%, rgba(61,214,198,.18), transparent 50%),
+      var(--bg);
+  }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 28px 18px 80px; }
+  header { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; margin-bottom: 22px; }
+  .eyebrow { color: var(--muted); font-size: 13px; letter-spacing: .08em; text-transform: uppercase; }
+  h1 { margin: 6px 0 0; font-size: 28px; font-weight: 700; letter-spacing: -.02em; }
+  .streak {
+    background: linear-gradient(135deg, rgba(91,140,255,.25), rgba(61,214,198,.15));
+    border: 1px solid var(--line); border-radius: 16px; padding: 12px 14px; text-align: right; min-width: 110px;
+  }
+  .streak b { display: block; font-size: 22px; color: var(--accent2); }
+  .streak span { font-size: 12px; color: var(--muted); }
+  .progress {
+    height: 10px; background: rgba(255,255,255,.06); border-radius: 999px; overflow: hidden; margin: 8px 0 26px;
+  }
+  .progress > i { display: block; height: 100%; width: 0; background: linear-gradient(90deg, var(--accent), var(--accent2)); transition: width .35s ease; }
+  .panel {
+    background: linear-gradient(180deg, rgba(255,255,255,.04), transparent 40%), var(--card);
+    border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
+    padding: 18px; margin-bottom: 16px;
+  }
+  .panel h2 { margin: 0 0 12px; font-size: 16px; display: flex; align-items: center; gap: 8px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 12px var(--accent); }
+  .dot.teal { background: var(--accent2); box-shadow: 0 0 12px var(--accent2); }
+  .tasks { display: grid; gap: 10px; }
+  .task {
+    display: flex; gap: 12px; align-items: flex-start; padding: 12px 14px;
+    background: var(--card2); border-radius: 14px; border: 1px solid transparent; cursor: pointer;
+    transition: border-color .2s, transform .15s;
+  }
+  .task:hover { border-color: rgba(91,140,255,.35); transform: translateY(-1px); }
+  .task.done { opacity: .55; }
+  .task.done .task-title { text-decoration: line-through; }
+  .check {
+    width: 22px; height: 22px; border-radius: 7px; border: 2px solid rgba(255,255,255,.25);
+    flex: none; display: grid; place-items: center; margin-top: 1px; transition: .2s;
+  }
+  .task.done .check { background: var(--ok); border-color: var(--ok); }
+  .task.done .check::after { content: "✓"; color: #062016; font-size: 13px; font-weight: 700; }
+  .task-title { font-size: 15px; font-weight: 600; }
+  .task-sub { font-size: 12px; color: var(--muted); margin-top: 3px; }
+  .grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); gap: 10px;
+  }
+  .flip { perspective: 900px; height: 96px; }
+  .flip-inner {
+    position: relative; width: 100%; height: 100%; transition: transform .45s cubic-bezier(.2,.8,.2,1);
+    transform-style: preserve-3d; cursor: pointer;
+  }
+  .flip.revealed .flip-inner { transform: rotateY(180deg); }
+  .face {
+    position: absolute; inset: 0; backface-visibility: hidden; border-radius: 14px;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    border: 1px solid var(--line); padding: 10px;
+  }
+  .front { background: var(--card2); }
+  .back { background: linear-gradient(160deg, #2a3a55, #1c2838); transform: rotateY(180deg); }
+  .en { font-size: 16px; font-weight: 700; letter-spacing: -.01em; }
+  .hint { font-size: 11px; color: var(--muted); margin-top: 4px; }
+  .zh { font-size: 15px; font-weight: 600; color: #d7e8ff; text-align: center; }
+  .phon { font-size: 11px; color: var(--muted); margin-top: 4px; }
+  .toolbar { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 4px; }
+  button {
+    appearance: none; border: 0; cursor: pointer; font: inherit; font-weight: 600;
+    border-radius: 999px; padding: 10px 16px; color: #061018;
+    background: linear-gradient(135deg, var(--accent), #7aa2ff);
+    box-shadow: 0 8px 24px rgba(91,140,255,.35);
+  }
+  button.ghost {
+    background: transparent; color: var(--ink); border: 1px solid var(--line); box-shadow: none;
+  }
+  button.warn {
+    background: linear-gradient(135deg, var(--warn), #ffb087); box-shadow: 0 8px 24px rgba(255,143,107,.3);
+  }
+  .quiz { display: none; margin-top: 12px; }
+  .quiz.on { display: block; }
+  .q { font-size: 18px; font-weight: 700; margin-bottom: 12px; }
+  .opts { display: grid; gap: 8px; }
+  .opt {
+    text-align: left; background: var(--card2); color: var(--ink); border: 1px solid var(--line);
+    border-radius: 12px; padding: 12px 14px; box-shadow: none;
+  }
+  .opt.correct { border-color: var(--ok); background: rgba(93,222,160,.12); }
+  .opt.wrong { border-color: var(--warn); background: rgba(255,143,107,.12); }
+  .stat {
+    display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; color: var(--muted); font-size: 13px;
+  }
+  .stat b { color: var(--ink); }
+  footer { margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.6; text-align: center; }
+  @media (prefers-reduced-motion: reduce) {
+    .flip-inner, .progress > i, .task { transition: none; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <div class="eyebrow">长春理工 · 学位英语 + 驾照</div>
+        <h1>Day 1 · 10月12日</h1>
+      </div>
+      <div class="streak"><b id="streakNum">1</b><span>连续打卡天</span></div>
+    </header>
+    <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+
+    <section class="panel">
+      <h2><span class="dot teal"></span>今日驾照</h2>
+      <div class="tasks" id="driveTasks"></div>
+    </section>
+
+    <section class="panel">
+      <h2><span class="dot"></span>今日 30 词 · 点卡片看中文</h2>
+      <div class="toolbar">
+        <button type="button" id="revealAll">全部翻开</button>
+        <button type="button" class="ghost" id="hideAll">全部盖住</button>
+        <button type="button" class="ghost" id="startQuiz">小测验</button>
+      </div>
+      <div class="grid" id="cards"></div>
+      <div class="quiz" id="quiz">
+        <div class="q" id="qText"></div>
+        <div class="opts" id="opts"></div>
+        <div class="stat">答对 <b id="score">0</b> / <b id="total">0</b></div>
+      </div>
+      <div class="stat" style="margin-top:16px">已翻开 <b id="flipped">0</b> / 30 · 勾选进度会保存在本机</div>
+    </section>
+
+    <section class="panel">
+      <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>打卡</h2>
+      <p style="margin:0 0 12px;color:var(--muted);font-size:14px;line-height:1.55">做完后在聊天里回我「完成」。若今晚 20:51 前没回，我会警告，并把没完成的补进明天。</p>
+      <button type="button" class="warn" id="markDone">标记本页已学完</button>
+      <div class="stat" id="doneMsg" style="display:none;color:var(--ok)">已标记完成，回去聊天回一句「完成」就行。</div>
+    </section>
+
+    <footer>本地打开即可，无需账号。数据只存在你浏览器里。</footer>
+  </div>
+<script>
+const WORDS = [
+  ["abandon","放弃"],["ability","能力"],["absent","缺席的"],["absolute","绝对的"],["absorb","吸收"],
+  ["abstract","抽象的"],["abundant","丰富的"],["academic","学术的"],["accelerate","加速"],["accept","接受"],
+  ["access","通道/使用权"],["accident","事故"],["accommodate","容纳"],["accompany","陪伴"],["accomplish","完成"],
+  ["according to","根据"],["account","账户/叙述"],["accumulate","积累"],["accurate","准确的"],["accuse","指控"],
+  ["achieve","达到"],["acknowledge","承认"],["acquire","获得"],["across","穿过"],["act","行动"],
+  ["active","积极的"],["actual","实际的"],["adapt","适应"],["add","增加"],["additional","额外的"]
+];
+const DRIVE = [
+  { id: "d1", title: "约体检或确认体检点", sub: "带身份证，视力色觉达标" },
+  { id: "d2", title: "联系驾校并问清费用学时", sub: "C1 约 62 学时，确认能否用交管12123约考" },
+  { id: "d3", title: "安装并登录交管12123", sub: "先熟悉「考试预约」入口，今天不用约" }
+];
+const KEY = "study-2026-10-12";
+const state = JSON.parse(localStorage.getItem(KEY) || '{"flipped":{},"drive":{},"done":false}');
+
+const cards = document.getElementById("cards");
+const driveTasks = document.getElementById("driveTasks");
+const bar = document.getElementById("bar");
+const flippedEl = document.getElementById("flipped");
+
+function save(){ localStorage.setItem(KEY, JSON.stringify(state)); updateProgress(); }
+
+function updateProgress(){
+  const f = Object.keys(state.flipped).length;
+  const d = Object.values(state.drive).filter(Boolean).length;
+  const total = 30 + DRIVE.length + 1;
+  const got = f + d + (state.done ? 1 : 0);
+  bar.style.width = Math.round(got / total * 100) + "%";
+  flippedEl.textContent = f;
+}
+
+DRIVE.forEach(t => {
+  const el = document.createElement("div");
+  el.className = "task" + (state.drive[t.id] ? " done" : "");
+  el.innerHTML = `<div class="check"></div><div><div class="task-title">${t.title}</div><div class="task-sub">${t.sub}</div></div>`;
+  el.onclick = () => { state.drive[t.id] = !state.drive[t.id]; el.classList.toggle("done", state.drive[t.id]); save(); };
+  driveTasks.appendChild(el);
+});
+
+WORDS.forEach(([en, zh], i) => {
+  const wrap = document.createElement("div");
+  wrap.className = "flip" + (state.flipped[i] ? " revealed" : "");
+  wrap.innerHTML = `<div class="flip-inner"><div class="face front"><div class="en">${en}</div><div class="hint">点我</div></div><div class="face back"><div class="zh">${zh}</div><div class="phon">${en}</div></div></div>`;
+  wrap.onclick = () => { wrap.classList.toggle("revealed"); state.flipped[i] = wrap.classList.contains("revealed"); if(!state.flipped[i]) delete state.flipped[i]; save(); };
+  cards.appendChild(wrap);
+});
+
+document.getElementById("revealAll").onclick = () => {
+  [...cards.children].forEach((c,i) => { c.classList.add("revealed"); state.flipped[i]=true; }); save();
+};
+document.getElementById("hideAll").onclick = () => {
+  [...cards.children].forEach(c => c.classList.remove("revealed")); state.flipped={}; save();
+};
+
+let qi = 0, score = 0, order = [];
+const quiz = document.getElementById("quiz");
+document.getElementById("startQuiz").onclick = () => {
+  order = WORDS.map((_,i)=>i).sort(()=>Math.random()-0.5).slice(0,10);
+  qi = 0; score = 0; quiz.classList.add("on");
+  document.getElementById("score").textContent = "0";
+  document.getElementById("total").textContent = "0";
+  nextQ();
+};
+function nextQ(){
+  if(qi >= order.length){ document.getElementById("qText").textContent = `完成！对了 ${score}/${order.length}`; document.getElementById("opts").innerHTML=""; return; }
+  const [en, zh] = WORDS[order[qi]];
+  document.getElementById("qText").textContent = en + " 是什么意思？";
+  const wrongs = WORDS.filter(w => w[1] !== zh).sort(()=>Math.random()-0.5).slice(0,3).map(w=>w[1]);
+  const opts = [zh, ...wrongs].sort(()=>Math.random()-0.5);
+  const box = document.getElementById("opts"); box.innerHTML = "";
+  opts.forEach(o => {
+    const b = document.createElement("button"); b.type="button"; b.className="opt"; b.textContent=o;
+    b.onclick = () => {
+      [...box.children].forEach(x => x.disabled = true);
+      if(o===zh){ b.classList.add("correct"); score++; } else { b.classList.add("wrong"); [...box.children].find(x=>x.textContent===zh)?.classList.add("correct"); }
+      document.getElementById("score").textContent = score;
+      document.getElementById("total").textContent = qi+1;
+      setTimeout(()=>{ qi++; nextQ(); }, 650);
+    };
+    box.appendChild(b);
+  });
+}
+
+document.getElementById("markDone").onclick = () => {
+  state.done = true; save();
+  document.getElementById("doneMsg").style.display = "block";
+};
+updateProgress();
+</script>
+</body>
+</html>
