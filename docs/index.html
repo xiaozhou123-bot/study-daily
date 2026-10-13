@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>备考 Day 1 · 10月12日</title>
+<title>备考 Day 2 · 10月13日</title>
 <style>
   :root {
     --bg: #0f1419;
@@ -125,11 +125,16 @@
     <header>
       <div>
         <div class="eyebrow">长春理工 · 学位英语 + 驾照</div>
-        <h1>Day 1 · 10月12日</h1>
+        <h1>Day 2 · 10月13日</h1>
       </div>
       <div class="streak"><b id="streakNum">1</b><span>连续打卡天</span></div>
     </header>
     <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+
+    <section class="panel" style="border-color:rgba(255,143,107,.45)">
+      <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>昨日未回「完成」</h2>
+      <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.55">Day 1（10月12日）没有收到「完成」。可先补昨天：<a href="./day-001-2026-10-12.html" style="color:var(--accent2)">打开 Day 1</a>。今天任务照常往下走。</p>
+    </section>
 
     <section class="panel">
       <h2><span class="dot teal"></span>今日驾照</h2>
@@ -154,7 +159,7 @@
 
     <section class="panel">
       <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>打卡</h2>
-      <p style="margin:0 0 12px;color:var(--muted);font-size:14px;line-height:1.55">做完后在聊天里回我「完成」。若今晚 20:51 前没回，我会警告，并把没完成的补进明天。</p>
+      <p style="margin:0 0 12px;color:var(--muted);font-size:14px;line-height:1.55">做完后在聊天里回我「完成」。若今晚 20:51 前没回，我会继续警告，并把没完成的补进明天。</p>
       <button type="button" class="warn" id="markDone">标记本页已学完</button>
       <div class="stat" id="doneMsg" style="display:none;color:var(--ok)">已标记完成，回去聊天回一句「完成」就行。</div>
     </section>
@@ -162,20 +167,9 @@
     <footer>本地打开即可，无需账号。数据只存在你浏览器里。</footer>
   </div>
 <script>
-const WORDS = [
-  ["abandon","放弃"],["ability","能力"],["absent","缺席的"],["absolute","绝对的"],["absorb","吸收"],
-  ["abstract","抽象的"],["abundant","丰富的"],["academic","学术的"],["accelerate","加速"],["accept","接受"],
-  ["access","通道/使用权"],["accident","事故"],["accommodate","容纳"],["accompany","陪伴"],["accomplish","完成"],
-  ["according to","根据"],["account","账户/叙述"],["accumulate","积累"],["accurate","准确的"],["accuse","指控"],
-  ["achieve","达到"],["acknowledge","承认"],["acquire","获得"],["across","穿过"],["act","行动"],
-  ["active","积极的"],["actual","实际的"],["adapt","适应"],["add","增加"],["additional","额外的"]
-];
-const DRIVE = [
-  { id: "d1", title: "约体检或确认体检点", sub: "带身份证，视力色觉达标" },
-  { id: "d2", title: "联系驾校并问清费用学时", sub: "C1 约 62 学时，确认能否用交管12123约考" },
-  { id: "d3", title: "安装并登录交管12123", sub: "先熟悉「考试预约」入口，今天不用约" }
-];
-const KEY = "study-2026-10-12";
+const WORDS = [["abide by", "忠于；遵守"], ["absence of mind", "心不在焉"], ["be absorbed in", "全神贯注于"], ["of one's own accord", "自愿地，主动地"], ["in accord with", "与…一致"], ["with one accord", "一致地"], ["in accordance with", "依照，根据"], ["be accustomed to", "习惯于"], ["be acquainted with", "了解；熟悉"], ["in addition", "此外"], ["in addition to", "除…之外"], ["absence", "缺席，不在场"], ["absolutely", "绝对地，完全地"], ["abuse", "虐待；滥用"], ["acceptance", "接受，承认"], ["accordance", "一致"], ["accustomed", "惯常的，习惯的"], ["ache", "疼痛"], ["achievement", "成就，成绩"], ["acid", "酸；酸的"], ["acquaintance", "熟人，相识"], ["acre", "英亩"], ["action", "行动"], ["activity", "活动"], ["actor", "男演员"], ["actress", "女演员"], ["actually", "实际上"], ["addition", "加法，增加"], ["adequate", "足够的，恰当的"], ["adjective", "形容词"]];
+const DRIVE = [{"id": "d1", "title": "科目一：先过交规总则与信号灯", "sub": "交管12123 或驾考宝典，今天至少 20 题"}, {"id": "d2", "title": "记下驾校报名材料清单", "sub": "身份证、体检表、一寸白底照要求"}, {"id": "d3", "title": "确认驾校能否用 12123 约科一", "sub": "问清学员号开通时间，方便后面约考"}];
+const KEY = "study-2026-10-13";
 const state = JSON.parse(localStorage.getItem(KEY) || '{"flipped":{},"drive":{},"done":false}');
 
 const cards = document.getElementById("cards");
