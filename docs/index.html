@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>备考 Day 2 · 10月13日</title>
+<title>备考 Day 3 · 10月14日</title>
 <style>
   :root {
     --bg: #0f1419;
@@ -125,15 +125,15 @@
     <header>
       <div>
         <div class="eyebrow">长春理工 · 学位英语 + 驾照</div>
-        <h1>Day 2 · 10月13日</h1>
+        <h1>Day 3 · 10月14日</h1>
       </div>
-      <div class="streak"><b id="streakNum">1</b><span>连续打卡天</span></div>
+      <div class="streak"><b id="streakNum">0</b><span>连续打卡天</span></div>
     </header>
     <div class="progress" aria-hidden="true"><i id="bar"></i></div>
 
     <section class="panel" style="border-color:rgba(255,143,107,.45)">
       <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>昨日未回「完成」</h2>
-      <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.55">Day 1（10月12日）没有收到「完成」。可先补昨天：<a href="./day-001-2026-10-12.html" style="color:var(--accent2)">打开 Day 1</a>。今天任务照常往下走。</p>
+      <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.55">Day 1（10月12日）和 Day 2（10月13日）都还没收到「完成」。可先补：<a href="./day-001-2026-10-12.html" style="color:var(--accent2)">Day 1</a> · <a href="./day-002-2026-10-13.html" style="color:var(--accent2)">Day 2</a>。今天任务照常往下走。</p>
     </section>
 
     <section class="panel">
@@ -167,9 +167,9 @@
     <footer>本地打开即可，无需账号。数据只存在你浏览器里。</footer>
   </div>
 <script>
-const WORDS = [["abide by", "忠于；遵守"], ["absence of mind", "心不在焉"], ["be absorbed in", "全神贯注于"], ["of one's own accord", "自愿地，主动地"], ["in accord with", "与…一致"], ["with one accord", "一致地"], ["in accordance with", "依照，根据"], ["be accustomed to", "习惯于"], ["be acquainted with", "了解；熟悉"], ["in addition", "此外"], ["in addition to", "除…之外"], ["absence", "缺席，不在场"], ["absolutely", "绝对地，完全地"], ["abuse", "虐待；滥用"], ["acceptance", "接受，承认"], ["accordance", "一致"], ["accustomed", "惯常的，习惯的"], ["ache", "疼痛"], ["achievement", "成就，成绩"], ["acid", "酸；酸的"], ["acquaintance", "熟人，相识"], ["acre", "英亩"], ["action", "行动"], ["activity", "活动"], ["actor", "男演员"], ["actress", "女演员"], ["actually", "实际上"], ["addition", "加法，增加"], ["adequate", "足够的，恰当的"], ["adjective", "形容词"]];
-const DRIVE = [{"id": "d1", "title": "科目一：先过交规总则与信号灯", "sub": "交管12123 或驾考宝典，今天至少 20 题"}, {"id": "d2", "title": "记下驾校报名材料清单", "sub": "身份证、体检表、一寸白底照要求"}, {"id": "d3", "title": "确认驾校能否用 12123 约科一", "sub": "问清学员号开通时间，方便后面约考"}];
-const KEY = "study-2026-10-13";
+const WORDS = [["be absent from", "缺席，不在"], ["be abundant in", "富于，富有"], ["access to", "能接近，进入，了解"], ["by accident", "偶然地，意外地"], ["on one's own account", "为了自己；自行负责"], ["take ... into account", "把…考虑进去"], ["give sb. an account of", "说明，解释"], ["account for", "解释，说明"], ["on account of", "由于，因为"], ["on no account", "绝不要（句首倒装）"], ["accuse sb. of sth.", "指控，控告"], ["act on / act as", "按…行动 / 担任"], ["adapt oneself to", "使自己适应于"], ["adapt ... for", "改编（以适应新需要）"], ["adjust", "调节，调整"], ["administration", "管理，行政机关"], ["admire", "钦佩，赞赏"], ["admit", "承认，接纳"], ["adopt", "收养，采取"], ["adult", "成人"], ["advance", "前进，促进"], ["advanced", "先进的，高级的"], ["advantage", "优点，有利条件"], ["adventure", "冒险"], ["adverb", "副词"], ["advertisement", "广告"], ["afford", "负担得起"], ["afraid", "害怕的"], ["aim", "目标；旨在"], ["almost", "几乎"]];
+const DRIVE = [{"id": "d1", "title": "科目一：标志标线再刷一轮", "sub": "错题本优先，今天再做 30 题"}, {"id": "d2", "title": "弄清体检医院与费用", "sub": "本市哪些医院能做驾驶员体检，大概多少钱"}, {"id": "d3", "title": "科目一重点：让行与路口", "sub": "看一小节口诀，对照做 10 道相关题"}];
+const KEY = "study-2026-10-14";
 const state = JSON.parse(localStorage.getItem(KEY) || '{"flipped":{},"drive":{},"done":false}');
 
 const cards = document.getElementById("cards");
