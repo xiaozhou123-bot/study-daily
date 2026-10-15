@@ -545,7 +545,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "alter",
@@ -553,7 +554,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "although",
@@ -561,7 +563,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "altogether",
@@ -569,7 +572,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "amaze",
@@ -577,7 +581,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "ambition",
@@ -585,7 +590,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "ambulance",
@@ -593,7 +599,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "amount",
@@ -601,7 +608,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "amuse",
@@ -609,7 +617,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "analysis",
@@ -617,7 +626,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "analyze",
@@ -625,7 +635,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "ancestor",
@@ -633,7 +644,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "announce",
@@ -641,7 +653,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "annoy",
@@ -649,7 +662,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "approve",
@@ -657,7 +671,8 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
   },
   {
     "word": "area",
@@ -665,6 +680,133 @@
     "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
     "freq": null,
     "type": "word",
-    "seen": false
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "argue",
+    "meaning_cn": "争论，辩论",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "argument",
+    "meaning_cn": "争论，论据",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "arise",
+    "meaning_cn": "出现，升起",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "arm",
+    "meaning_cn": "手臂；武装",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "army",
+    "meaning_cn": "军队",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "around",
+    "meaning_cn": "在周围",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "arrange",
+    "meaning_cn": "安排，整理",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "arrest",
+    "meaning_cn": "逮捕，阻止",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "arrive",
+    "meaning_cn": "到达",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "art",
+    "meaning_cn": "艺术，技艺",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "article",
+    "meaning_cn": "文章，物品",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "artificial",
+    "meaning_cn": "人造的，假的",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "artist",
+    "meaning_cn": "艺术家",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
+  },
+  {
+    "word": "as",
+    "meaning_cn": "作为，如同",
+    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+    "freq": null,
+    "type": "word",
+    "seen": true,
+    "day": 4
   }
 ]

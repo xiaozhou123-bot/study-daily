@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>备考 Day 3 · 10月14日</title>
+<title>备考 Day 4 · 10月15日</title>
 <style>
   :root {
     --bg: #0f1419;
@@ -125,15 +125,15 @@
     <header>
       <div>
         <div class="eyebrow">长春理工 · 学位英语 + 驾照</div>
-        <h1>Day 3 · 10月14日</h1>
+        <h1>Day 4 · 10月15日</h1>
       </div>
       <div class="streak"><b id="streakNum">0</b><span>连续打卡天</span></div>
     </header>
     <div class="progress" aria-hidden="true"><i id="bar"></i></div>
 
     <section class="panel" style="border-color:rgba(255,143,107,.45)">
-      <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>昨日未回「完成」</h2>
-      <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.55">Day 1（10月12日）和 Day 2（10月13日）都还没收到「完成」。可先补：<a href="./day-001-2026-10-12.html" style="color:var(--accent2)">Day 1</a> · <a href="./day-002-2026-10-13.html" style="color:var(--accent2)">Day 2</a>。今天任务照常往下走。</p>
+      <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>三日未回「完成」</h2>
+      <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.55">Day 1（10月12日）、Day 2（10月13日）、Day 3（10月14日）都还没收到「完成」。可先补：<a href="./day-001-2026-10-12.html" style="color:var(--accent2)">Day 1</a> · <a href="./day-002-2026-10-13.html" style="color:var(--accent2)">Day 2</a> · <a href="./day-003-2026-10-14.html" style="color:var(--accent2)">Day 3</a>。今天任务照常往下走。</p>
     </section>
 
     <section class="panel">
@@ -167,9 +167,9 @@
     <footer>本地打开即可，无需账号。数据只存在你浏览器里。</footer>
   </div>
 <script>
-const WORDS = [["be absent from", "缺席，不在"], ["be abundant in", "富于，富有"], ["access to", "能接近，进入，了解"], ["by accident", "偶然地，意外地"], ["on one's own account", "为了自己；自行负责"], ["take ... into account", "把…考虑进去"], ["give sb. an account of", "说明，解释"], ["account for", "解释，说明"], ["on account of", "由于，因为"], ["on no account", "绝不要（句首倒装）"], ["accuse sb. of sth.", "指控，控告"], ["act on / act as", "按…行动 / 担任"], ["adapt oneself to", "使自己适应于"], ["adapt ... for", "改编（以适应新需要）"], ["adjust", "调节，调整"], ["administration", "管理，行政机关"], ["admire", "钦佩，赞赏"], ["admit", "承认，接纳"], ["adopt", "收养，采取"], ["adult", "成人"], ["advance", "前进，促进"], ["advanced", "先进的，高级的"], ["advantage", "优点，有利条件"], ["adventure", "冒险"], ["adverb", "副词"], ["advertisement", "广告"], ["afford", "负担得起"], ["afraid", "害怕的"], ["aim", "目标；旨在"], ["almost", "几乎"]];
-const DRIVE = [{"id": "d1", "title": "科目一：标志标线再刷一轮", "sub": "错题本优先，今天再做 30 题"}, {"id": "d2", "title": "弄清体检医院与费用", "sub": "本市哪些医院能做驾驶员体检，大概多少钱"}, {"id": "d3", "title": "科目一重点：让行与路口", "sub": "看一小节口诀，对照做 10 道相关题"}];
-const KEY = "study-2026-10-14";
+const WORDS = [["alphabet", "字母表"], ["alter", "改变"], ["although", "虽然"], ["altogether", "完全，总之"], ["amaze", "使惊奇"], ["ambition", "雄心"], ["ambulance", "救护车"], ["amount", "数量，总计"], ["amuse", "使娱乐"], ["analysis", "分析"], ["analyze", "分析"], ["ancestor", "祖先"], ["announce", "宣布"], ["annoy", "使烦恼"], ["approve", "批准，赞成"], ["area", "地区，面积"], ["argue", "争论，辩论"], ["argument", "争论，论据"], ["arise", "出现，升起"], ["arm", "手臂；武装"], ["army", "军队"], ["around", "在周围"], ["arrange", "安排，整理"], ["arrest", "逮捕，阻止"], ["arrive", "到达"], ["art", "艺术，技艺"], ["article", "文章，物品"], ["artificial", "人造的，假的"], ["artist", "艺术家"], ["as", "作为，如同"]];
+const DRIVE = [{"id": "d1", "title": "科目一：再刷 30 题（优先错题）", "sub": "错题本优先，今天再做 30 题"}, {"id": "d2", "title": "对比 2 家驾校报名费与科一时长", "sub": "记下费用和大概学时，方便择校"}, {"id": "d3", "title": "科目一重点：速度与安全距离", "sub": "看一小节 + 做 10 道相关题"}];
+const KEY = "study-2026-10-15";
 const state = JSON.parse(localStorage.getItem(KEY) || '{"flipped":{},"drive":{},"done":false}');
 
 const cards = document.getElementById("cards");
