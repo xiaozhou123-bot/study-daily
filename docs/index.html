@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<title>备考 Day 6 · 10月17日</title>
+<title>备考 Day 7 · 10月18日</title>
 <style>
   :root {
     --bg: #0f1419;
@@ -125,15 +125,15 @@
     <header>
       <div>
         <div class="eyebrow">长春理工 · 学位英语 + 驾照</div>
-        <h1>Day 6 · 10月17日</h1>
+        <h1>Day 7 · 10月18日</h1>
       </div>
       <div class="streak"><b id="streakNum">0</b><span>连续打卡天</span></div>
     </header>
     <div class="progress" aria-hidden="true"><i id="bar"></i></div>
 
     <section class="panel" style="border-color:rgba(255,143,107,.45)">
-      <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>五日未回「完成」</h2>
-      <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.55">Day 1（10月12日）到 Day 5（10月16日）都还没收到「完成」。可先补：<a href="./day-001-2026-10-12.html" style="color:var(--accent2)">Day 1</a> · <a href="./day-002-2026-10-13.html" style="color:var(--accent2)">Day 2</a> · <a href="./day-003-2026-10-14.html" style="color:var(--accent2)">Day 3</a> · <a href="./day-004-2026-10-15.html" style="color:var(--accent2)">Day 4</a> · <a href="./day-005-2026-10-16.html" style="color:var(--accent2)">Day 5</a>。今天任务照常往下走。</p>
+      <h2><span class="dot" style="background:var(--warn);box-shadow:0 0 12px var(--warn)"></span>六日未回「完成」</h2>
+      <p style="margin:0;color:var(--muted);font-size:14px;line-height:1.55">Day 1（10月12日）到 Day 6（10月17日）都还没收到「完成」。可先补：<a href="./day-001-2026-10-12.html" style="color:var(--accent2)">Day 1</a> · <a href="./day-002-2026-10-13.html" style="color:var(--accent2)">Day 2</a> · <a href="./day-003-2026-10-14.html" style="color:var(--accent2)">Day 3</a> · <a href="./day-004-2026-10-15.html" style="color:var(--accent2)">Day 4</a> · <a href="./day-005-2026-10-16.html" style="color:var(--accent2)">Day 5</a> · <a href="./day-006-2026-10-17.html" style="color:var(--accent2)">Day 6</a>。今天任务照常往下走。</p>
     </section>
 
     <section class="panel">
@@ -167,9 +167,9 @@
     <footer>本地打开即可，无需账号。数据只存在你浏览器里。</footer>
   </div>
 <script>
-const WORDS = [["avenue", "林荫道；途径"], ["average", "平均的；普通的"], ["avoid", "避免"], ["await", "等候"], ["awake", "醒着的；唤醒"], ["award", "奖；授予"], ["aware", "意识到的"], ["awful", "可怕的；极坏的"], ["awkward", "尴尬的；笨拙的"], ["background", "背景"], ["backward", "向后的；落后的"], ["bacteria", "细菌"], ["baggage", "行李"], ["balance", "平衡；余额"], ["balloon", "气球"], ["band", "乐队；带子"], ["bankrupt", "破产的"], ["bare", "赤裸的；仅有的"], ["barely", "几乎不；仅仅"], ["bargain", "便宜货；讨价还价"], ["barrier", "障碍；屏障"], ["base", "基础；基地"], ["basic", "基本的"], ["basis", "基础；根据"], ["battery", "电池；一组"], ["battle", "战役；战斗"], ["beach", "海滩"], ["beam", "梁；光束"], ["bear", "忍受；熊"], ["beast", "野兽；畜生"]];
-const DRIVE = [{"id": "d1", "title": "科目一：模拟卷做 1 套（计时）", "sub": "错题收录，标出法规条文出处"}, {"id": "d2", "title": "科目一重点：让行与路口通行", "sub": "看一小节讲义 + 做 10 道相关题"}, {"id": "d3", "title": "在 交管12123 确认本地报名材料清单", "sub": "身份证/体检/照片要求记下来"}];
-const KEY = "study-2026-10-17";
+const WORDS = [["beat", "打；打败"], ["beautiful", "美丽的"], ["beauty", "美；美人"], ["because", "因为"], ["become", "变成；成为"], ["bed", "床"], ["bedroom", "卧室"], ["bee", "蜜蜂"], ["beef", "牛肉"], ["beer", "啤酒"], ["before", "在…之前"], ["beg", "乞求；请求"], ["begin", "开始"], ["beginning", "开始；开端"], ["behave", "举止；表现"], ["behavior", "行为；表现"], ["behind", "在…后面"], ["belief", "信仰；信念"], ["believe", "相信"], ["bell", "钟；铃"], ["belong", "属于"], ["below", "在下面"], ["belt", "腰带；地带"], ["bench", "长凳；工作台"], ["bend", "弯曲；屈服"], ["beneath", "在…之下"], ["benefit", "利益；获益"], ["beside", "在…旁边"], ["besides", "此外；除…之外"], ["best", "最好的"]];
+const DRIVE = [{"id": "d1", "title": "科目一：错题本再清 25 题", "sub": "只做错题与易混题，写清错因"}, {"id": "d2", "title": "科目一重点：酒驾与记分罚款", "sub": "看一小节讲义 + 做 10 道相关题"}, {"id": "d3", "title": "确认本地驾驶员体检医院名单", "sub": "记下 1–2 家医院、费用与是否需预约"}];
+const KEY = "study-2026-10-18";
 const state = JSON.parse(localStorage.getItem(KEY) || '{"flipped":{},"drive":{},"done":false}');
 
 const cards = document.getElementById("cards");
