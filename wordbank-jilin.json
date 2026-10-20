@@ -1,2292 +1,2322 @@
 [
-  {
-    "word": "abide by",
-    "meaning_cn": "忠于；遵守",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "be absent from",
-    "meaning_cn": "缺席，不在",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "absence of mind",
-    "meaning_cn": "心不在焉",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "be absorbed in",
-    "meaning_cn": "全神贯注于",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "be abundant in",
-    "meaning_cn": "富于，富有",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "access to",
-    "meaning_cn": "能接近，进入，了解",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "by accident",
-    "meaning_cn": "偶然地，意外地",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "of one's own accord",
-    "meaning_cn": "自愿地，主动地",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "in accord with",
-    "meaning_cn": "与…一致",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "with one accord",
-    "meaning_cn": "一致地",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "in accordance with",
-    "meaning_cn": "依照，根据",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "on one's own account",
-    "meaning_cn": "为了自己；自行负责",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "take ... into account",
-    "meaning_cn": "把…考虑进去",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "give sb. an account of",
-    "meaning_cn": "说明，解释",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "account for",
-    "meaning_cn": "解释，说明",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "on account of",
-    "meaning_cn": "由于，因为",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "on no account",
-    "meaning_cn": "绝不要（句首倒装）",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "accuse sb. of sth.",
-    "meaning_cn": "指控，控告",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "be accustomed to",
-    "meaning_cn": "习惯于",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "be acquainted with",
-    "meaning_cn": "了解；熟悉",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "act on / act as",
-    "meaning_cn": "按…行动 / 担任",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "adapt oneself to",
-    "meaning_cn": "使自己适应于",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "adapt ... for",
-    "meaning_cn": "改编（以适应新需要）",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "in addition",
-    "meaning_cn": "此外",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "in addition to",
-    "meaning_cn": "除…之外",
-    "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
-    "freq": "high (列表标注高频，无具体次数)",
-    "type": "phrase",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "absence",
-    "meaning_cn": "缺席，不在场",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "absolutely",
-    "meaning_cn": "绝对地，完全地",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "abuse",
-    "meaning_cn": "虐待；滥用",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "acceptance",
-    "meaning_cn": "接受，承认",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "accordance",
-    "meaning_cn": "一致",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "accustomed",
-    "meaning_cn": "惯常的，习惯的",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "ache",
-    "meaning_cn": "疼痛",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "achievement",
-    "meaning_cn": "成就，成绩",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "acid",
-    "meaning_cn": "酸；酸的",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "acquaintance",
-    "meaning_cn": "熟人，相识",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "acre",
-    "meaning_cn": "英亩",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "action",
-    "meaning_cn": "行动",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "activity",
-    "meaning_cn": "活动",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "actor",
-    "meaning_cn": "男演员",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "actress",
-    "meaning_cn": "女演员",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "actually",
-    "meaning_cn": "实际上",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "addition",
-    "meaning_cn": "加法，增加",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "adequate",
-    "meaning_cn": "足够的，恰当的",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "adjective",
-    "meaning_cn": "形容词",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 2
-  },
-  {
-    "word": "adjust",
-    "meaning_cn": "调节，调整",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "administration",
-    "meaning_cn": "管理，行政机关",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "admire",
-    "meaning_cn": "钦佩，赞赏",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "admit",
-    "meaning_cn": "承认，接纳",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "adopt",
-    "meaning_cn": "收养，采取",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "adult",
-    "meaning_cn": "成人",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "advance",
-    "meaning_cn": "前进，促进",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "advanced",
-    "meaning_cn": "先进的，高级的",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "advantage",
-    "meaning_cn": "优点，有利条件",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "adventure",
-    "meaning_cn": "冒险",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "adverb",
-    "meaning_cn": "副词",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "advertisement",
-    "meaning_cn": "广告",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "afford",
-    "meaning_cn": "负担得起",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "afraid",
-    "meaning_cn": "害怕的",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "aim",
-    "meaning_cn": "目标；旨在",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "almost",
-    "meaning_cn": "几乎",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 3
-  },
-  {
-    "word": "alphabet",
-    "meaning_cn": "字母表",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "alter",
-    "meaning_cn": "改变",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "although",
-    "meaning_cn": "虽然",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "altogether",
-    "meaning_cn": "完全，总之",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "amaze",
-    "meaning_cn": "使惊奇",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "ambition",
-    "meaning_cn": "雄心",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "ambulance",
-    "meaning_cn": "救护车",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "amount",
-    "meaning_cn": "数量，总计",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "amuse",
-    "meaning_cn": "使娱乐",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "analysis",
-    "meaning_cn": "分析",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "analyze",
-    "meaning_cn": "分析",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "ancestor",
-    "meaning_cn": "祖先",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "announce",
-    "meaning_cn": "宣布",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "annoy",
-    "meaning_cn": "使烦恼",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "approve",
-    "meaning_cn": "批准，赞成",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "area",
-    "meaning_cn": "地区，面积",
-    "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "argue",
-    "meaning_cn": "争论，辩论",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "argument",
-    "meaning_cn": "争论，论据",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "arise",
-    "meaning_cn": "出现，升起",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "arm",
-    "meaning_cn": "手臂；武装",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "army",
-    "meaning_cn": "军队",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "around",
-    "meaning_cn": "在周围",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "arrange",
-    "meaning_cn": "安排，整理",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "arrest",
-    "meaning_cn": "逮捕，阻止",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "arrive",
-    "meaning_cn": "到达",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "art",
-    "meaning_cn": "艺术，技艺",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "article",
-    "meaning_cn": "文章，物品",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "artificial",
-    "meaning_cn": "人造的，假的",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "artist",
-    "meaning_cn": "艺术家",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "as",
-    "meaning_cn": "作为，如同",
-    "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
-    "freq": null,
-    "type": "word",
-    "seen": true,
-    "day": 4
-  },
-  {
-    "word": "aside",
-    "meaning_cn": "在旁边；到一边",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "ask",
-    "meaning_cn": "问；要求",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "asleep",
-    "meaning_cn": "睡着的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "aspect",
-    "meaning_cn": "方面；外貌",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assemble",
-    "meaning_cn": "集合；装配",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assess",
-    "meaning_cn": "评估；估定",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assign",
-    "meaning_cn": "分配；指派",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assist",
-    "meaning_cn": "帮助；协助",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assistance",
-    "meaning_cn": "帮助；援助",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assistant",
-    "meaning_cn": "助手；助理",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "associate",
-    "meaning_cn": "联系；同事",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "association",
-    "meaning_cn": "协会；联系",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assume",
-    "meaning_cn": "假定；承担",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "assure",
-    "meaning_cn": "使确信；保证",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "astonish",
-    "meaning_cn": "使惊讶",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "athlete",
-    "meaning_cn": "运动员",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "atmosphere",
-    "meaning_cn": "大气；气氛",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "atom",
-    "meaning_cn": "原子",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attach",
-    "meaning_cn": "附上；依恋",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attack",
-    "meaning_cn": "攻击；抨击",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attempt",
-    "meaning_cn": "尝试；企图",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attend",
-    "meaning_cn": "出席；照料",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attention",
-    "meaning_cn": "注意；注意力",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attitude",
-    "meaning_cn": "态度；姿势",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attract",
-    "meaning_cn": "吸引",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "attractive",
-    "meaning_cn": "有吸引力的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "audience",
-    "meaning_cn": "观众；听众",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "author",
-    "meaning_cn": "作者",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "authority",
-    "meaning_cn": "权威；当局",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "available",
-    "meaning_cn": "可获得的；有空的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 5
-  },
-  {
-    "word": "avenue",
-    "meaning_cn": "林荫道；途径",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "average",
-    "meaning_cn": "平均的；普通的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "avoid",
-    "meaning_cn": "避免",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "await",
-    "meaning_cn": "等候",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "awake",
-    "meaning_cn": "醒着的；唤醒",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "award",
-    "meaning_cn": "奖；授予",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "aware",
-    "meaning_cn": "意识到的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "awful",
-    "meaning_cn": "可怕的；极坏的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "awkward",
-    "meaning_cn": "尴尬的；笨拙的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "background",
-    "meaning_cn": "背景",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "backward",
-    "meaning_cn": "向后的；落后的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "bacteria",
-    "meaning_cn": "细菌",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "baggage",
-    "meaning_cn": "行李",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "balance",
-    "meaning_cn": "平衡；余额",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "balloon",
-    "meaning_cn": "气球",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "band",
-    "meaning_cn": "乐队；带子",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "bankrupt",
-    "meaning_cn": "破产的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "bare",
-    "meaning_cn": "赤裸的；仅有的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "barely",
-    "meaning_cn": "几乎不；仅仅",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "bargain",
-    "meaning_cn": "便宜货；讨价还价",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "barrier",
-    "meaning_cn": "障碍；屏障",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "base",
-    "meaning_cn": "基础；基地",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "basic",
-    "meaning_cn": "基本的",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "basis",
-    "meaning_cn": "基础；根据",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "battery",
-    "meaning_cn": "电池；一组",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "battle",
-    "meaning_cn": "战役；战斗",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "beach",
-    "meaning_cn": "海滩",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "beam",
-    "meaning_cn": "梁；光束",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "bear",
-    "meaning_cn": "忍受；熊",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "beast",
-    "meaning_cn": "野兽；畜生",
-    "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 6
-  },
-  {
-    "word": "beat",
-    "meaning_cn": "打；打败",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beautiful",
-    "meaning_cn": "美丽的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beauty",
-    "meaning_cn": "美；美人",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "because",
-    "meaning_cn": "因为",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "become",
-    "meaning_cn": "变成；成为",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "bed",
-    "meaning_cn": "床",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "bedroom",
-    "meaning_cn": "卧室",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "bee",
-    "meaning_cn": "蜜蜂",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beef",
-    "meaning_cn": "牛肉",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beer",
-    "meaning_cn": "啤酒",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "before",
-    "meaning_cn": "在…之前",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beg",
-    "meaning_cn": "乞求；请求",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "begin",
-    "meaning_cn": "开始",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beginning",
-    "meaning_cn": "开始；开端",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "behave",
-    "meaning_cn": "举止；表现",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "behavior",
-    "meaning_cn": "行为；表现",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "behind",
-    "meaning_cn": "在…后面",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "belief",
-    "meaning_cn": "信仰；信念",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "believe",
-    "meaning_cn": "相信",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "bell",
-    "meaning_cn": "钟；铃",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "belong",
-    "meaning_cn": "属于",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "below",
-    "meaning_cn": "在下面",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "belt",
-    "meaning_cn": "腰带；地带",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "bench",
-    "meaning_cn": "长凳；工作台",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "bend",
-    "meaning_cn": "弯曲；屈服",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beneath",
-    "meaning_cn": "在…之下",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "benefit",
-    "meaning_cn": "利益；获益",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "beside",
-    "meaning_cn": "在…旁边",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "besides",
-    "meaning_cn": "此外；除…之外",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "best",
-    "meaning_cn": "最好的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 7
-  },
-  {
-    "word": "better",
-    "meaning_cn": "更好的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "between",
-    "meaning_cn": "在…之间",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "beyond",
-    "meaning_cn": "超出；越过",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bicycle",
-    "meaning_cn": "自行车",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bid",
-    "meaning_cn": "出价；投标",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "big",
-    "meaning_cn": "大的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bill",
-    "meaning_cn": "账单；法案",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "billion",
-    "meaning_cn": "十亿",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bind",
-    "meaning_cn": "绑；约束",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "biology",
-    "meaning_cn": "生物学",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bird",
-    "meaning_cn": "鸟",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "birth",
-    "meaning_cn": "出生；出身",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "birthday",
-    "meaning_cn": "生日",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bit",
-    "meaning_cn": "一点儿；位",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bite",
-    "meaning_cn": "咬；一口",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bitter",
-    "meaning_cn": "苦的；痛苦的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "black",
-    "meaning_cn": "黑色的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blackboard",
-    "meaning_cn": "黑板",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blame",
-    "meaning_cn": "责备；过失",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blank",
-    "meaning_cn": "空白的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blanket",
-    "meaning_cn": "毛毯",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bleed",
-    "meaning_cn": "出血；流血",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blend",
-    "meaning_cn": "混合",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "bless",
-    "meaning_cn": "祝福",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blind",
-    "meaning_cn": "瞎的；盲目的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "block",
-    "meaning_cn": "街区；堵塞",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blood",
-    "meaning_cn": "血液",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blow",
-    "meaning_cn": "吹；打击",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "blue",
-    "meaning_cn": "蓝色的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "board",
-    "meaning_cn": "木板；董事会",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": true,
-    "day": 8
-  },
-  {
-    "word": "boat",
-    "meaning_cn": "小船",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "body",
-    "meaning_cn": "身体；主体",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "boil",
-    "meaning_cn": "煮沸",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bone",
-    "meaning_cn": "骨头",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "book",
-    "meaning_cn": "书；预订",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "boring",
-    "meaning_cn": "乏味的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "born",
-    "meaning_cn": "出生的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "borrow",
-    "meaning_cn": "借；借入",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "boss",
-    "meaning_cn": "老板",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "both",
-    "meaning_cn": "两者都",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bother",
-    "meaning_cn": "打扰；麻烦",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bottle",
-    "meaning_cn": "瓶子",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bottom",
-    "meaning_cn": "底部",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bound",
-    "meaning_cn": "一定的；界限",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "boundary",
-    "meaning_cn": "边界",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bow",
-    "meaning_cn": "鞠躬；弓",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bowl",
-    "meaning_cn": "碗",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "box",
-    "meaning_cn": "盒子；箱子",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "boy",
-    "meaning_cn": "男孩",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "brain",
-    "meaning_cn": "大脑",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "branch",
-    "meaning_cn": "树枝；分公司",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "brave",
-    "meaning_cn": "勇敢的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bread",
-    "meaning_cn": "面包",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "break",
-    "meaning_cn": "打破；休息",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "breakfast",
-    "meaning_cn": "早餐",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "breath",
-    "meaning_cn": "呼吸；气息",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "breathe",
-    "meaning_cn": "呼吸",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "brick",
-    "meaning_cn": "砖",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bridge",
-    "meaning_cn": "桥",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "brief",
-    "meaning_cn": "简短的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bright",
-    "meaning_cn": "明亮的；聪明的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bring",
-    "meaning_cn": "带来",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "broad",
-    "meaning_cn": "宽阔的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "broadcast",
-    "meaning_cn": "广播",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "brother",
-    "meaning_cn": "兄弟",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "brown",
-    "meaning_cn": "棕色的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "brush",
-    "meaning_cn": "刷子；刷",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "build",
-    "meaning_cn": "建造",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "building",
-    "meaning_cn": "建筑物",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "burn",
-    "meaning_cn": "燃烧",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "burst",
-    "meaning_cn": "爆炸；突发",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bury",
-    "meaning_cn": "埋葬",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bus",
-    "meaning_cn": "公共汽车",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "bush",
-    "meaning_cn": "灌木",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "business",
-    "meaning_cn": "生意；事务",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "busy",
-    "meaning_cn": "忙的",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "butter",
-    "meaning_cn": "黄油",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "button",
-    "meaning_cn": "按钮；纽扣",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "buy",
-    "meaning_cn": "买",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  },
-  {
-    "word": "by",
-    "meaning_cn": "靠；被；到…为止",
-    "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
-    "freq": "outline order",
-    "type": "word",
-    "seen": false
-  }
+ {
+  "word": "abide by",
+  "meaning_cn": "忠于；遵守",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "be absent from",
+  "meaning_cn": "缺席，不在",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "absence of mind",
+  "meaning_cn": "心不在焉",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "be absorbed in",
+  "meaning_cn": "全神贯注于",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "be abundant in",
+  "meaning_cn": "富于，富有",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "access to",
+  "meaning_cn": "能接近，进入，了解",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "by accident",
+  "meaning_cn": "偶然地，意外地",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "of one's own accord",
+  "meaning_cn": "自愿地，主动地",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "in accord with",
+  "meaning_cn": "与…一致",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "with one accord",
+  "meaning_cn": "一致地",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "in accordance with",
+  "meaning_cn": "依照，根据",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "on one's own account",
+  "meaning_cn": "为了自己；自行负责",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "take ... into account",
+  "meaning_cn": "把…考虑进去",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "give sb. an account of",
+  "meaning_cn": "说明，解释",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "account for",
+  "meaning_cn": "解释，说明",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "on account of",
+  "meaning_cn": "由于，因为",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "on no account",
+  "meaning_cn": "绝不要（句首倒装）",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "accuse sb. of sth.",
+  "meaning_cn": "指控，控告",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "be accustomed to",
+  "meaning_cn": "习惯于",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "be acquainted with",
+  "meaning_cn": "了解；熟悉",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "act on / act as",
+  "meaning_cn": "按…行动 / 担任",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "adapt oneself to",
+  "meaning_cn": "使自己适应于",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "adapt ... for",
+  "meaning_cn": "改编（以适应新需要）",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "in addition",
+  "meaning_cn": "此外",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "in addition to",
+  "meaning_cn": "除…之外",
+  "source": "freq list (自考生网 成人学位英语高频重点词汇一)",
+  "freq": "high (列表标注高频，无具体次数)",
+  "type": "phrase",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "absence",
+  "meaning_cn": "缺席，不在场",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "absolutely",
+  "meaning_cn": "绝对地，完全地",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "abuse",
+  "meaning_cn": "虐待；滥用",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "acceptance",
+  "meaning_cn": "接受，承认",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "accordance",
+  "meaning_cn": "一致",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "accustomed",
+  "meaning_cn": "惯常的，习惯的",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "ache",
+  "meaning_cn": "疼痛",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "achievement",
+  "meaning_cn": "成就，成绩",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "acid",
+  "meaning_cn": "酸；酸的",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "acquaintance",
+  "meaning_cn": "熟人，相识",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "acre",
+  "meaning_cn": "英亩",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "action",
+  "meaning_cn": "行动",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "activity",
+  "meaning_cn": "活动",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "actor",
+  "meaning_cn": "男演员",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "actress",
+  "meaning_cn": "女演员",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "actually",
+  "meaning_cn": "实际上",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "addition",
+  "meaning_cn": "加法，增加",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "adequate",
+  "meaning_cn": "足够的，恰当的",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "adjective",
+  "meaning_cn": "形容词",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 2
+ },
+ {
+  "word": "adjust",
+  "meaning_cn": "调节，调整",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "administration",
+  "meaning_cn": "管理，行政机关",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "admire",
+  "meaning_cn": "钦佩，赞赏",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "admit",
+  "meaning_cn": "承认，接纳",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "adopt",
+  "meaning_cn": "收养，采取",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "adult",
+  "meaning_cn": "成人",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "advance",
+  "meaning_cn": "前进，促进",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "advanced",
+  "meaning_cn": "先进的，高级的",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "advantage",
+  "meaning_cn": "优点，有利条件",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "adventure",
+  "meaning_cn": "冒险",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "adverb",
+  "meaning_cn": "副词",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "advertisement",
+  "meaning_cn": "广告",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "afford",
+  "meaning_cn": "负担得起",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "afraid",
+  "meaning_cn": "害怕的",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "aim",
+  "meaning_cn": "目标；旨在",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "almost",
+  "meaning_cn": "几乎",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 3
+ },
+ {
+  "word": "alphabet",
+  "meaning_cn": "字母表",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "alter",
+  "meaning_cn": "改变",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "although",
+  "meaning_cn": "虽然",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "altogether",
+  "meaning_cn": "完全，总之",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "amaze",
+  "meaning_cn": "使惊奇",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "ambition",
+  "meaning_cn": "雄心",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "ambulance",
+  "meaning_cn": "救护车",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "amount",
+  "meaning_cn": "数量，总计",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "amuse",
+  "meaning_cn": "使娱乐",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "analysis",
+  "meaning_cn": "分析",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "analyze",
+  "meaning_cn": "分析",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "ancestor",
+  "meaning_cn": "祖先",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "announce",
+  "meaning_cn": "宣布",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "annoy",
+  "meaning_cn": "使烦恼",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "approve",
+  "meaning_cn": "批准，赞成",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "area",
+  "meaning_cn": "地区，面积",
+  "source": "syllabus (大纲词汇表，人人文库/小米粒文库转载)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "argue",
+  "meaning_cn": "争论，辩论",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "argument",
+  "meaning_cn": "争论，论据",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "arise",
+  "meaning_cn": "出现，升起",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "arm",
+  "meaning_cn": "手臂；武装",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "army",
+  "meaning_cn": "军队",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "around",
+  "meaning_cn": "在周围",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "arrange",
+  "meaning_cn": "安排，整理",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "arrest",
+  "meaning_cn": "逮捕，阻止",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "arrive",
+  "meaning_cn": "到达",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "art",
+  "meaning_cn": "艺术，技艺",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "article",
+  "meaning_cn": "文章，物品",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "artificial",
+  "meaning_cn": "人造的，假的",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "artist",
+  "meaning_cn": "艺术家",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "as",
+  "meaning_cn": "作为，如同",
+  "source": "syllabus (大纲词汇表 A 段续，area 之后；学位英语大纲常见词序)",
+  "freq": null,
+  "type": "word",
+  "seen": true,
+  "day": 4
+ },
+ {
+  "word": "aside",
+  "meaning_cn": "在旁边；到一边",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "ask",
+  "meaning_cn": "问；要求",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "asleep",
+  "meaning_cn": "睡着的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "aspect",
+  "meaning_cn": "方面；外貌",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assemble",
+  "meaning_cn": "集合；装配",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assess",
+  "meaning_cn": "评估；估定",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assign",
+  "meaning_cn": "分配；指派",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assist",
+  "meaning_cn": "帮助；协助",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assistance",
+  "meaning_cn": "帮助；援助",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assistant",
+  "meaning_cn": "助手；助理",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "associate",
+  "meaning_cn": "联系；同事",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "association",
+  "meaning_cn": "协会；联系",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assume",
+  "meaning_cn": "假定；承担",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "assure",
+  "meaning_cn": "使确信；保证",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "astonish",
+  "meaning_cn": "使惊讶",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "athlete",
+  "meaning_cn": "运动员",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "atmosphere",
+  "meaning_cn": "大气；气氛",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "atom",
+  "meaning_cn": "原子",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attach",
+  "meaning_cn": "附上；依恋",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attack",
+  "meaning_cn": "攻击；抨击",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attempt",
+  "meaning_cn": "尝试；企图",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attend",
+  "meaning_cn": "出席；照料",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attention",
+  "meaning_cn": "注意；注意力",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attitude",
+  "meaning_cn": "态度；姿势",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attract",
+  "meaning_cn": "吸引",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "attractive",
+  "meaning_cn": "有吸引力的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "audience",
+  "meaning_cn": "观众；听众",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "author",
+  "meaning_cn": "作者",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "authority",
+  "meaning_cn": "权威；当局",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "available",
+  "meaning_cn": "可获得的；有空的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 5
+ },
+ {
+  "word": "avenue",
+  "meaning_cn": "林荫道；途径",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "average",
+  "meaning_cn": "平均的；普通的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "avoid",
+  "meaning_cn": "避免",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "await",
+  "meaning_cn": "等候",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "awake",
+  "meaning_cn": "醒着的；唤醒",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "award",
+  "meaning_cn": "奖；授予",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "aware",
+  "meaning_cn": "意识到的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "awful",
+  "meaning_cn": "可怕的；极坏的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "awkward",
+  "meaning_cn": "尴尬的；笨拙的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "background",
+  "meaning_cn": "背景",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "backward",
+  "meaning_cn": "向后的；落后的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "bacteria",
+  "meaning_cn": "细菌",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "baggage",
+  "meaning_cn": "行李",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "balance",
+  "meaning_cn": "平衡；余额",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "balloon",
+  "meaning_cn": "气球",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "band",
+  "meaning_cn": "乐队；带子",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "bankrupt",
+  "meaning_cn": "破产的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "bare",
+  "meaning_cn": "赤裸的；仅有的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "barely",
+  "meaning_cn": "几乎不；仅仅",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "bargain",
+  "meaning_cn": "便宜货；讨价还价",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "barrier",
+  "meaning_cn": "障碍；屏障",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "base",
+  "meaning_cn": "基础；基地",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "basic",
+  "meaning_cn": "基本的",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "basis",
+  "meaning_cn": "基础；根据",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "battery",
+  "meaning_cn": "电池；一组",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "battle",
+  "meaning_cn": "战役；战斗",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "beach",
+  "meaning_cn": "海滩",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "beam",
+  "meaning_cn": "梁；光束",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "bear",
+  "meaning_cn": "忍受；熊",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "beast",
+  "meaning_cn": "野兽；畜生",
+  "source": "大纲词表续编（字母序 A→B，接 Day4 末词 as）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 6
+ },
+ {
+  "word": "beat",
+  "meaning_cn": "打；打败",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beautiful",
+  "meaning_cn": "美丽的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beauty",
+  "meaning_cn": "美；美人",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "because",
+  "meaning_cn": "因为",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "become",
+  "meaning_cn": "变成；成为",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "bed",
+  "meaning_cn": "床",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "bedroom",
+  "meaning_cn": "卧室",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "bee",
+  "meaning_cn": "蜜蜂",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beef",
+  "meaning_cn": "牛肉",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beer",
+  "meaning_cn": "啤酒",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "before",
+  "meaning_cn": "在…之前",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beg",
+  "meaning_cn": "乞求；请求",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "begin",
+  "meaning_cn": "开始",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beginning",
+  "meaning_cn": "开始；开端",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "behave",
+  "meaning_cn": "举止；表现",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "behavior",
+  "meaning_cn": "行为；表现",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "behind",
+  "meaning_cn": "在…后面",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "belief",
+  "meaning_cn": "信仰；信念",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "believe",
+  "meaning_cn": "相信",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "bell",
+  "meaning_cn": "钟；铃",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "belong",
+  "meaning_cn": "属于",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "below",
+  "meaning_cn": "在下面",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "belt",
+  "meaning_cn": "腰带；地带",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "bench",
+  "meaning_cn": "长凳；工作台",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "bend",
+  "meaning_cn": "弯曲；屈服",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beneath",
+  "meaning_cn": "在…之下",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "benefit",
+  "meaning_cn": "利益；获益",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "beside",
+  "meaning_cn": "在…旁边",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "besides",
+  "meaning_cn": "此外；除…之外",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "best",
+  "meaning_cn": "最好的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 7
+ },
+ {
+  "word": "better",
+  "meaning_cn": "更好的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "between",
+  "meaning_cn": "在…之间",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "beyond",
+  "meaning_cn": "超出；越过",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bicycle",
+  "meaning_cn": "自行车",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bid",
+  "meaning_cn": "出价；投标",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "big",
+  "meaning_cn": "大的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bill",
+  "meaning_cn": "账单；法案",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "billion",
+  "meaning_cn": "十亿",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bind",
+  "meaning_cn": "绑；约束",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "biology",
+  "meaning_cn": "生物学",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bird",
+  "meaning_cn": "鸟",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "birth",
+  "meaning_cn": "出生；出身",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "birthday",
+  "meaning_cn": "生日",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bit",
+  "meaning_cn": "一点儿；位",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bite",
+  "meaning_cn": "咬；一口",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bitter",
+  "meaning_cn": "苦的；痛苦的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "black",
+  "meaning_cn": "黑色的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blackboard",
+  "meaning_cn": "黑板",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blame",
+  "meaning_cn": "责备；过失",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blank",
+  "meaning_cn": "空白的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blanket",
+  "meaning_cn": "毛毯",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bleed",
+  "meaning_cn": "出血；流血",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blend",
+  "meaning_cn": "混合",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "bless",
+  "meaning_cn": "祝福",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blind",
+  "meaning_cn": "瞎的；盲目的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "block",
+  "meaning_cn": "街区；堵塞",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blood",
+  "meaning_cn": "血液",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blow",
+  "meaning_cn": "吹；打击",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "blue",
+  "meaning_cn": "蓝色的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "board",
+  "meaning_cn": "木板；董事会",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 8
+ },
+ {
+  "word": "boat",
+  "meaning_cn": "小船",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "body",
+  "meaning_cn": "身体；主体",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "boil",
+  "meaning_cn": "煮沸",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bone",
+  "meaning_cn": "骨头",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "book",
+  "meaning_cn": "书；预订",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "boring",
+  "meaning_cn": "乏味的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "born",
+  "meaning_cn": "出生的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "borrow",
+  "meaning_cn": "借；借入",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "boss",
+  "meaning_cn": "老板",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "both",
+  "meaning_cn": "两者都",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bother",
+  "meaning_cn": "打扰；麻烦",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bottle",
+  "meaning_cn": "瓶子",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bottom",
+  "meaning_cn": "底部",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bound",
+  "meaning_cn": "一定的；界限",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "boundary",
+  "meaning_cn": "边界",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bow",
+  "meaning_cn": "鞠躬；弓",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bowl",
+  "meaning_cn": "碗",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "box",
+  "meaning_cn": "盒子；箱子",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "boy",
+  "meaning_cn": "男孩",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "brain",
+  "meaning_cn": "大脑",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "branch",
+  "meaning_cn": "树枝；分公司",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "brave",
+  "meaning_cn": "勇敢的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bread",
+  "meaning_cn": "面包",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "break",
+  "meaning_cn": "打破；休息",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "breakfast",
+  "meaning_cn": "早餐",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "breath",
+  "meaning_cn": "呼吸；气息",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "breathe",
+  "meaning_cn": "呼吸",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "brick",
+  "meaning_cn": "砖",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bridge",
+  "meaning_cn": "桥",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "brief",
+  "meaning_cn": "简短的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": true,
+  "day": 9
+ },
+ {
+  "word": "bright",
+  "meaning_cn": "明亮的；聪明的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "bring",
+  "meaning_cn": "带来",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "broad",
+  "meaning_cn": "宽阔的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "broadcast",
+  "meaning_cn": "广播",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "brother",
+  "meaning_cn": "兄弟",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "brown",
+  "meaning_cn": "棕色的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "brush",
+  "meaning_cn": "刷子；刷",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "build",
+  "meaning_cn": "建造",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "building",
+  "meaning_cn": "建筑物",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "burn",
+  "meaning_cn": "燃烧",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "burst",
+  "meaning_cn": "爆炸；突发",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "bury",
+  "meaning_cn": "埋葬",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "bus",
+  "meaning_cn": "公共汽车",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "bush",
+  "meaning_cn": "灌木",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "business",
+  "meaning_cn": "生意；事务",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "busy",
+  "meaning_cn": "忙的",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "butter",
+  "meaning_cn": "黄油",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "button",
+  "meaning_cn": "按钮；纽扣",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "buy",
+  "meaning_cn": "买",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ },
+ {
+  "word": "by",
+  "meaning_cn": "靠；被；到…为止",
+  "source": "大纲词表续编（字母序 B 续，接 Day6 末词 beast；释义据公开英汉词表整理）",
+  "freq": "outline order",
+  "type": "word",
+  "seen": false
+ }
 ]
